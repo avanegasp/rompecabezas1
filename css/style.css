@@ -11,6 +11,9 @@ body{
   padding: 5px;
   border-radius: 5px;
 }
+/*#fondo {
+   background: url('img6/img1.jpg');
+ }*/
 
 #tabla2{
   margin-top: 50px;
@@ -25,7 +28,7 @@ body{
 div{
   width: 200px;
   height: 230px;
-  background-color: #38b0b2;
+  /*background-color: #38b0b2;*/
   display: inline-block;
 }
 

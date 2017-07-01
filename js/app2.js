@@ -20,5 +20,5 @@ $( function() {
  });
 
 $(function(){
-  $('h1').draggable();
+  $('nav h1').draggable();
 })
