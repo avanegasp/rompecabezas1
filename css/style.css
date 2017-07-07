@@ -25,6 +25,12 @@ body{
   border-radius: 5px;
 }
 
+.block1{
+  position: fixed;
+  left: 0;
+  /*top: 100%;*/
+}
+
 div{
   width: 200px;
   height: 230px;
