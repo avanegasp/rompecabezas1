@@ -22,3 +22,11 @@ $( function() {
 $(function(){
   $('nav h1').draggable();
 })
+
+$(function(){
+  $('a').click(function(){
+    $("#boton").load('index.html'),
+  $('a')
+    $("#boton").load('portada.html')
+  })
+})

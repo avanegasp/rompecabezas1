@@ -22,6 +22,32 @@ body{
   border-radius: 5px;
 }
 
+h1{
+  font-size: 30px;
+  text-align: center;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+h5{
+  margin-bottom: 40px;
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: red;
+  background-color: rgba(114, 44, 120, 0.9);
+  border-radius: 5px;
+  padding: 20px;
+  margin-left: 232px;
+  margin-top: 100px;
+}
+
+.uno {
+  margin-right: 250px;
+}
+
 div{
   width: 150px;
   height: 115px;
